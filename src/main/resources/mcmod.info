@@ -1,0 +1,16 @@
+[
+{
+  "modid": "garlicmod",
+  "name": "Garlic Mod",
+  "description": "my model",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Acdeasdff"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
